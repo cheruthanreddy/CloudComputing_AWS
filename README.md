@@ -5,7 +5,7 @@ This repository contains **AWS Cloud Computing Working Proofs**, showcasing hand
 ## 🌐 View the AWS Working Proofs Online
 You can access the AWS working screenshots using the following link:
 
-🔗 **[AWS Working Proofs](https://cheruthanreddy.github.io/CloudComputing_AWS/){:target="_blank"}**  
+🔗 **[AWS Working Proofs](https://cheruthanreddy.github.io/CloudComputing_AWS/)**  
 
 ## 📌 AWS Topics Covered
 
