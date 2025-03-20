@@ -5,7 +5,7 @@ This repository contains **AWS Cloud Computing Working Proofs**, showcasing hand
 ## 🌐 View the AWS Working Proofs Online
 You can access the AWS working screenshots using the following link:
 
-🔗 **[AWS Working Proofs](https://cheruthanreddy.github.io/CloudComputing_AWS/)**
+🔗 **[AWS Working Proofs](https://cheruthanreddy.github.io/CloudComputing_AWS/){:target="_blank"}**  
 
 ## 📌 AWS Topics Covered
 
@@ -17,7 +17,7 @@ You can access the AWS working screenshots using the following link:
 - **S3 Versioning, CRR, and Static Web Hosting** - Demonstrates enabling **S3 versioning**, configuring **Cross-Region Replication (CRR)**, and hosting a **static website**.
 
 ## 📥 How to Use
-1. Click the **[AWS Working Proofs Link](https://cheruthanreddy.github.io/CloudComputing_AWS/)**.
+1. Click the **[AWS Working Proofs Link](https://cheruthanreddy.github.io/CloudComputing_AWS/){:target="_blank"}**.
 2. Select a topic to view the corresponding AWS screenshots.
 3. These screenshots serve as evidence of hands-on experience in AWS.
 
